@@ -1,6 +1,7 @@
 ### Hi there 👋
+I am currently a 2nd year student in VIT Chennai
 
-<!--
+<
 **avid-coder234/avid-coder234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
