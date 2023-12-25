@@ -8,14 +8,11 @@
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript**
 - <h2 align="center">Stats💫</h2>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=avid-coder234&theme=highcontrast&hide_border=true&border_radius=4.6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zeref101&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeref101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeref101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 - <h2 align="left"> Connect with Me</h2>
 
   
