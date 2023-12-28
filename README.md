@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Dewangan</h1>
-<h3 align="center">A passionate Coder</h3>
+<h3 align="center">A Passionate Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avid-coder234&label=Profile%20views&color=0e75b6&style=flat" alt="avid-coder234" /> </p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=avid-coder234&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+  <img src ="https://github-readme-stats.vercel.app/api?username=avid-coder234&show_icons=true&theme=algolia" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avid-coder234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 
 
@@ -24,10 +32,4 @@
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=avid-coder234&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  
-  <img src ="https://github-readme-stats.vercel.app/api?username=avid-coder234&show_icons=true&theme=algolia" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avid-coder234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
