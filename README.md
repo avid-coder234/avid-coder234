@@ -8,6 +8,7 @@
 
  </div>
  <div align="center">
+ <img src="https://streak-stats.demolab.com?user=avid-coder234&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 
   
   <img src ="https://github-readme-stats.vercel.app/api?username=avid-coder234&show_icons=true&theme=algolia" height="150"/>
