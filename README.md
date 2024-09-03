@@ -43,7 +43,7 @@
 # 💻 Tech Stack:
 
 <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,googlecloud,next,vite,nodejs,vscode,md,git,github,githubactions,html,css,bootstrap,tailwind,express,postman,vercel" />
+    <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,go,react,figma,typescript,next,vite,nodejs,vscode,git,github,html,css,bootstrap,tailwind,express,postman" />
   </a>
 
 
