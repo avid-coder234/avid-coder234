@@ -40,6 +40,9 @@
   </a>
 </div>
 
+![](./profile-night-rainbow.svg)
+
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/Avid_coder_234/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -66,7 +69,6 @@
 
   [![wakatime](https://wakatime.com/badge/user/9c794c5f-0863-41ab-ab1b-674e4daa46a0.svg)](https://wakatime.com/@9c794c5f-0863-41ab-ab1b-674e4daa46a0)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
  
