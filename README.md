@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-<!--
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/Avid_coder_234/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
@@ -48,12 +48,12 @@
   <a href="https://leetcode.com/Avid_coder_234/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Avid_coder_234?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AvidCoder234?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
---->
 
 
-<!--[![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Avid_coder_234&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)-->
+
+[![srummanf's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AvidCoder234&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 
@@ -62,6 +62,15 @@
 <a href="https://skillicons.dev" align="center">
     <img align="center" src="https://skillicons.dev/icons?i=java,python,javascript,r,react,next,vite,nodejs,vscode,git,github,html,css,bootstrap,tailwind,postman" />
   </a>
+
+
+  [![wakatime](https://wakatime.com/badge/user/9c794c5f-0863-41ab-ab1b-674e4daa46a0.svg)](https://wakatime.com/@9c794c5f-0863-41ab-ab1b-674e4daa46a0)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+ 
+
 
 
 
